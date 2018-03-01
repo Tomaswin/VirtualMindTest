@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualTest", "VirtualTest\VirtualTest.csproj", "{406B83A2-66D2-4BC8-B9D5-6C2845430C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMCoreNET", "..\..\..\Desktop\CMCoreNET-master\CMCoreNET\CMCoreNET.csproj", "{5A8F0F31-AF1A-45F5-9C64-3095D2ABD1A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406B83A2-66D2-4BC8-B9D5-6C2845430C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406B83A2-66D2-4BC8-B9D5-6C2845430C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406B83A2-66D2-4BC8-B9D5-6C2845430C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406B83A2-66D2-4BC8-B9D5-6C2845430C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8F0F31-AF1A-45F5-9C64-3095D2ABD1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8F0F31-AF1A-45F5-9C64-3095D2ABD1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8F0F31-AF1A-45F5-9C64-3095D2ABD1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8F0F31-AF1A-45F5-9C64-3095D2ABD1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E39FAE07-5F3D-45B1-AAAF-7EA13D2DF17B}
+	EndGlobalSection
+EndGlobal
