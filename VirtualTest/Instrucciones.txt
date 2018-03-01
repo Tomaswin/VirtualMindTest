@@ -1,0 +1,5 @@
+Iniciar WampServer
+Ingresar a PhpMyadmin
+Crear la base de datos con el nombre "test"
+Ejecutar el script users
+Listo!!
